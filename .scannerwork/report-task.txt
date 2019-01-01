@@ -1,0 +1,6 @@
+projectKey=imam-school-Sonar-test
+serverUrl=http://10.194.50.69:9001
+serverVersion=7.4.0.18908
+dashboardUrl=http://10.194.50.69:9001/dashboard?id=imam-school-Sonar-test
+ceTaskId=AWgGtl2Ru8K5UBSzsw2Z
+ceTaskUrl=http://10.194.50.69:9001/api/ce/task?id=AWgGtl2Ru8K5UBSzsw2Z
