@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.jimamschool</groupId>
+  <groupId>com.imam-school-project</groupId>
   <artifactId>imam-school-project</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
@@ -25,4 +25,17 @@
   <build>
     <finalName>imam-school-project</finalName>
   </build>
+  <distributionManagement>
+    <repository>
+         <id>imam-school.repo</id>
+         <name>IMAM SCHOOL Internal Repository</name>
+         <url>http://10.194.50.69:8081/repository/imam-school-internal-release/</url>
+    </repository>
+    <snapshotRepository>
+         <id>imam-school.repo</id>
+         <name>IMAM SCHOOL Snapshot Repository</name>
+         <url>http://10.194.50.69:8081/repository/imam-school-snapshot/</url>
+    </snapshotRepository>
+</distributionManagement>
+  
 </project>
