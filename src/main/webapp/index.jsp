@@ -293,7 +293,7 @@ text-align: center;
  <BODY>
  
 <div id="header">
-  <a href="/" id="logo">J.M. Imam Memorial School</a>
+  <a href="/" id="logo">J.M. Imam Memorial School JLR</a>
   <ul id="menu">
     <li><a href="/"><span>Home</span></a></li>
     <li><a href="/"><span>Tutorials</span></a></li>
