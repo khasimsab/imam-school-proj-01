@@ -293,7 +293,11 @@ text-align: center;
  <BODY>
  
 <div id="header">
+<<<<<<< HEAD
   <a href="/" id="logo">J.M. Imam Memorial School jagalur </a>
+=======
+  <a href="/" id="logo">J.M. Imam Memorial School JLR</a>
+>>>>>>> b9e9bcb42aeab2ba7126d9866dd399d7931b4990
   <ul id="menu">
     <li><a href="/"><span>Home</span></a></li>
     <li><a href="/"><span>Tutorials</span></a></li>
